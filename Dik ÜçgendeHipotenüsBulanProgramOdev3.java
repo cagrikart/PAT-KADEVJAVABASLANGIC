@@ -17,7 +17,7 @@ public class Main {
 
     u = (kenar1+kenar2+hipotenüs) /2 ;
     cevre = 2*u;
-    System.out.println("u : 9" +u+ "and "+ "cevre : "+cevre);
+    System.out.println("u : " +u+ "and "+ "cevre : "+cevre);
 
     alan = Math.sqrt(u * (u - kenar1)* (u - kenar2) * (u - hipotenüs));
 
